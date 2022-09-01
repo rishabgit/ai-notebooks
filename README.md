@@ -1,2 +1,2 @@
 # ai-notebooks
-Some ipython notebooks implementing AI algorithms
+Inspired by [geohot](https://github.com/geohot/ai-notebooks)
